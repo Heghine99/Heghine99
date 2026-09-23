@@ -38,27 +38,85 @@
 
 <img src="./divider.svg" width="100%" alt=""/>
 
+<!-- ===================== SKILLS ===================== -->
 ## 🛠️ Skills
 
-- React / React Native
-- JavaScript / TypeScript
-- REST API / GraphQL
-- Axios / Apollo Client
-- Redux / Redux Toolkit / RTK Query / Redux-Saga
-- WebSocket
-- Firebase
-- OAuth (Google, Apple)
-- Google Maps API / Mapbox
-- Firebase Cloud Messaging (FCM) / Notifee
-- Stripe / In-App Purchases
-- Deep Linking / Branch.io
-- Keychain / MMKV
-- Git / Bitbucket / GitHub / GitLab
-- Jira / Asana
-- GitHub Copilot / Cursor / Claude Code
-- Xcode / Codemagic / App Store Connect / TestFlight
-- Android Signing / AAB Builds / Google Play Console
-- AWS (S3, Secrets Manager)
+<div align="center">
+
+### ⚛️ Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🗃️ State Management
+
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![RTK Query](https://img.shields.io/badge/RTK_Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Saga](https://img.shields.io/badge/Redux--Saga-999999?style=for-the-badge&logo=reduxsaga&logoColor=white)
+
+### 🔌 APIs & Real-Time
+
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=json&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Apollo Client](https://img.shields.io/badge/Apollo_Client-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+### 🔐 Authentication & Notifications
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![OAuth](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![FCM](https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Notifee](https://img.shields.io/badge/Notifee-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🗺️ Maps & Payments
+
+![Google Maps](https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![IAP](https://img.shields.io/badge/In--App_Purchases-333333?style=for-the-badge&logo=apple&logoColor=white)
+
+### 🔗 Deep Linking & Storage
+
+![Branch.io](https://img.shields.io/badge/Branch.io-000000?style=for-the-badge&logo=branch&logoColor=white)
+![Keychain](https://img.shields.io/badge/Keychain-000000?style=for-the-badge&logo=apple&logoColor=white)
+![MMKV](https://img.shields.io/badge/MMKV-3178C6?style=for-the-badge)
+
+### 🧰 Development Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-F06A6A?style=for-the-badge&logo=asana&logoColor=white)
+
+### 🤖 AI Development Tools
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+### 🚀 Build & Release
+
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Codemagic](https://img.shields.io/badge/Codemagic-F45E3B?style=for-the-badge&logo=codemagic&logoColor=white)
+![Apple Developer](https://img.shields.io/badge/Apple_Developer-000000?style=for-the-badge&logo=apple&logoColor=white)
+![App Store Connect](https://img.shields.io/badge/App_Store_Connect-0D96F0?style=for-the-badge&logo=appstore&logoColor=white)
+![TestFlight](https://img.shields.io/badge/TestFlight-0D96F0?style=for-the-badge&logo=appstore&logoColor=white)
+![Google Play Console](https://img.shields.io/badge/Google_Play_Console-414141?style=for-the-badge&logo=googleplay&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+### ☁️ Cloud
+
+![AWS](https://img.shields.io/badge/AWS_S3_%2F_Secrets_Manager-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+<img src="./divider.svg" width="100%" alt=""/>
 
 ## 🌍 Languages
 
