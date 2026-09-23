@@ -110,6 +110,11 @@
 ![Google Play Console](https://img.shields.io/badge/Google_Play_Console-414141?style=for-the-badge&logo=googleplay&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
+### 🗄️ Backend & Database
+
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 ### ☁️ Cloud
 
 ![AWS](https://img.shields.io/badge/AWS_S3_%2F_Secrets_Manager-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
